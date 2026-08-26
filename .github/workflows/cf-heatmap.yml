@@ -33,10 +33,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- cf-heatmap.svg; then
-            git add cf-heatmap.svg
+          git add cf-heatmap.svg
+          if git diff --cached --quiet -- cf-heatmap.svg; then
+            echo "No changes to cf-heatmap.svg, skipping commit."
+          else
             git commit -m "chore: update Codeforces heatmap"
             git push
-          else
-            echo "No changes to cf-heatmap.svg, skipping commit."
           fi
