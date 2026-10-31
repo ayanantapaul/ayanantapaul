@@ -31,7 +31,7 @@
 
 #### Open Source
 
-<pre> 
+<pre>
   Linux Kernel : Patch submissions via git format-patch / git send-email,
                  reviewed on the mailing lists
 </pre>
