@@ -1,79 +1,63 @@
-```
+```text
 $ whoami
-ayan
+Ayananta Paul
 
 $ cat /etc/motd
 B.Tech, Electronics and Computer Science Engineering
-Narula Institute of Technology, West Bengal, India
 
 $ cat ~/.goal
-edge AI / embedded systems engineer
+Embedded Systems Engineer / Edge Computing 
 ```
 
-## about
+**About**
 
-I work close to the hardware: firmware, the Linux kernel, FPGAs, and
-small ML models running on small chips. Currently a first-year student,
-building fundamentals in C, electronics and digital logic.
-
-## interests
-
-```
-embedded      ESP32 / ESP32-S3, Arduino, PlatformIO, ESP-IDF
-kernel        Linux patch submissions (docs, Rust guidelines, FPGA/DFL, netdev)
-rtos          Zephyr (IIO, GPIO, I2C, SPI)
-hardware      FPGA / Verilog HDL, VLSI, PCB design in KiCad
-systems       embedded Linux, SoCs
-ml            TinyML, quantization, TFLite Micro, CMSIS-NN, Apache TVM
+```text
+Currently a first-year student, building fundamentals in C, electronics and digital logic.
 ```
 
-## projects
+**Interests**
 
-```
-firefighting-robot    ESP32 flame + gas detection robot, servo-aimed water
-                      nozzle, WiFi manual control, live dashboard,
-                      autonomous sensor-triggered reactions
-
-surveillance-rover    ESP32-S3-CAM rover, MJPEG stream and control on
-                      separate HTTP servers, PIR + ultrasonic sensing,
-                      motor watchdog auto-stop
-
-text2pdf              client-side text to monospace PDF converter,
-                      Python in the browser (Pyodide + fpdf2),
-                      hosted on GitHub Pages
+```text
+Embedded : ESP32 / ESP32-S3, Arduino, PlatformIO, ESP-IDF
+Kernel   : Linux patch submissions (docs, Rust guidelines, FPGA/DFL, netdev)
+RTOS     : Zephyr (IIO, GPIO, I2C, SPI)
+Hardware : FPGAs / Verilog HDL, SBCs, VLSI, PCB design in KiCAD
+Systems  : Embedded Linux, SoCs
+ML       : TinyML, quantization, TFLite Micro, CMSIS-NN, Apache TVM
 ```
 
-## open source
+### Projects
 
-```
-linux kernel    patch submissions via git format-patch / git send-email,
-                reviewed on the mailing lists
-zephyr          primary target for GSoC 2027 / LFX Mentorship
+```text
+No projects added
 ```
 
-## environment
+### open source
 
-```
-os        Ubuntu
-editor    Neovim (single init.lua, native LSP), VS Code
-tooling   PlatformIO, arduino-cli, KiCad, git, neomutt + msmtp
-```
-
-## currently
-
-```
-[x] C fundamentals
-[x] kernel patch workflow
-[ ] electronics theory: DC circuits -> digital logic -> protocols
-[ ] Verilog + FPGA
-[ ] first merged Zephyr PR
-[ ] edge AI (planned for years 2-3, after the fundamentals)
+```text
+Linux Kernel : Patch submissions via git format-patch / git send-email,
+               reviewed on the mailing lists
 ```
 
-## contact
+### Environment
 
+```text
+Operating systems : Ubuntu, Arch Linux
+Editor            : Neovim (single init.lua, native LSP), Visual Studio Code
+Tooling           : Git, Neomutt
 ```
-github        https://github.com/ayanantapaul
-codeforces    https://codeforces.com/profile/xunzi  (xunzi)
-site          https://ayanantapaul.github.io
+
+### Currently
+
+```text
+[x] C Fundamentals
+[x] Kernel patch workflow
+```
+
+### Contact
+
+```text
+GitHub     : https://github.com/ayanantapaul
+Codeforces : https://codeforces.com/profile/ayanp  (ayanp)
+Website    : https://ayanantapaul.github.io
 ```
