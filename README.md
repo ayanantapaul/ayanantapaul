@@ -53,9 +53,9 @@ Tooling           : Git, Neomutt
 
 #### Social Accounts
 
-```md
-GitHub     : https://github.com/ayanantapaul
-LinkedIn   : https://www.linkedin.com/in/ayananta-paul/
-Codeforces : https://codeforces.com/profile/ayanp
-Website    : https://ayanantapaul.github.io
-```
+<pre>
+GitHub     : <a href="https://github.com/ayanantapaul">https://github.com/ayanantapaul</a>
+LinkedIn   : <a href="https://www.linkedin.com/in/ayananta-paul/">https://www.linkedin.com/in/ayananta-paul/</a>
+Codeforces : <a href="https://codeforces.com/profile/ayanp">https://codeforces.com/profile/ayanp</a>
+Website    : <a href="https://ayanantapaul.github.io">https://ayanantapaul.github.io</a>
+</pre>
