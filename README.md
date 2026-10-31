@@ -44,18 +44,20 @@
   Tooling           : Git, Neomutt
 </pre>
 
-#### Currently
+#### Currently Learning
 
 <pre>
-  [x] C Fundamentals
-  [x] Kernel patch workflow
+  [ ] C Fundamentals
+  [ ] Git & GitHub Basics
+  [ ] Kernel Patch Workflow
+  [ ] Basic Bash Scripting
 </pre>
 
 #### Social Accounts
 
 <pre>
-  GitHub     : <a href="https://github.com/ayanantapaul">https://github.com/ayanantapaul</a>
-  LinkedIn   : <a href="https://www.linkedin.com/in/ayananta-paul/">https://www.linkedin.com/in/ayananta-paul/</a>
-  Codeforces : <a href="https://codeforces.com/profile/ayanp">https://codeforces.com/profile/ayanp</a>
-  Website    : <a href="https://ayanantapaul.github.io">https://ayanantapaul.github.io</a>
+  GitHub     : <a href="https://github.com/ayanantapaul" target="_blank" rel="noopener noreferrer">https://github.com/ayanantapaul</a>
+  LinkedIn   : <a href="https://www.linkedin.com/in/ayananta-paul/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ayananta-paul/</a>
+  Codeforces : <a href="https://codeforces.com/profile/ayanp" target="_blank" rel="noopener noreferrer">https://codeforces.com/profile/ayanp</a>
+  Website    : <a href="https://ayanantapaul.github.io" target="_blank" rel="noopener noreferrer">https://ayanantapaul.github.io</a>
 </pre>
