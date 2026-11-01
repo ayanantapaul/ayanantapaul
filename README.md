@@ -20,7 +20,7 @@
   RTOS     : Zephyr (IIO, GPIO, I2C, SPI)
   Hardware : FPGAs / Verilog HDL, SBCs, VLSI, PCB design in KiCAD
   Systems  : Embedded Linux, SoCs
-  ML       : TinyML, quantization, TFLite Micro, CMSIS-NN, Apache TVM
+  ML       : TinyML, Quantization, TFLite Micro, CMSIS-NN, Apache TVM
 </pre>
 
 **Projects** 
