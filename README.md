@@ -1,4 +1,4 @@
-#### About
+**About**
 
 <pre>
   $ whoami
@@ -12,7 +12,7 @@
   Embedded Systems Engineer 
 </pre>
 
-#### Interests
+**Interests**
 
 <pre>
   Embedded : ESP32 / ESP32-S3, Arduino, PlatformIO, ESP-IDF
@@ -23,20 +23,20 @@
   ML       : TinyML, quantization, TFLite Micro, CMSIS-NN, Apache TVM
 </pre>
 
-#### Projects 
+**Projects** 
 
 <pre>
   No projects added
 </pre>
 
-#### Open Source
+**Open Source**
 
 <pre>
   Linux Kernel : Patch submissions via git format-patch / git send-email,
                  reviewed on the mailing lists
 </pre>
 
-#### Environment
+**Environment**
 
 <pre>
   Operating systems : Ubuntu, Arch Linux
@@ -44,7 +44,7 @@
   Tooling           : Git, GitHub, Neomutt + MSMTP
 </pre>
 
-#### Currently Learning
+**Currently Learning**
 
 <pre>
   [ ] C Fundamentals
@@ -53,7 +53,7 @@
   [ ] Basic Bash Scripting
 </pre>
 
-#### Social Accounts
+**Social Accounts**
 
 <pre>
   GitHub     : <a href="https://github.com/ayanantapaul">https://github.com/ayanantapaul</a>
