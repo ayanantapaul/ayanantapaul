@@ -17,7 +17,7 @@
 <pre>
   Embedded : ESP32 / ESP32-S3, Arduino, PlatformIO, ESP-IDF
   Kernel   : Linux Kernel Development
-  RTOS     : Zephyr (IIO, GPIO, I2C, SPI)
+  RTOS     : FreeRTOS, ZephyrRTOS
   Hardware : FPGAs / Verilog HDL, SBCs, VLSI, PCB design in KiCAD
   Systems  : Embedded Linux, SoCs
   ML       : TinyML, Quantization, TFLite Micro, CMSIS-NN, Apache TVM
